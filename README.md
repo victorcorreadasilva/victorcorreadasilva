@@ -4,7 +4,7 @@ Busco sempre aprender novas tecnologias e me manter atualizado no mundo da progr
 
 Cursando Engenharia de Software.
 
-Esse perfil no GitHub é destinado para salvar projetos que estou estudando e também servições prestados como desenvolvedor.
+Esse perfil no GitHub é destinado para salvar projetos que estou estudando e também serviços prestados como desenvolvedor.
 
 Aqui você pode ver algumas certificações que conquistei: [Certificações](certificados).
 
