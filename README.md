@@ -6,6 +6,7 @@ Cursando Engenharia de Software.
 
 Esse perfil no GitHub é destinado para salvar projetos que estou estudando e também servições prestados como desenvolvedor.
 
+Aqui você pode ver algumas certificações que conquistei: [Certificações](certificados).
 
 <!---
 victorcorreadasilva/victorcorreadasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
