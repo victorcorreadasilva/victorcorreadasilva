@@ -1,4 +1,4 @@
-Sou Desenvolvedor de Sistemas da Informação com foco em backend e experiência prática no ecossistema .NET desde 2022. Atuo principalmente com C#, ASP.NET Core e PostgreSQL no desenvolvimento de APIs para sistemas ERP e plataformas de fidelização (controle de pontos e cashback).
+Sou engenheiro de software, desenvolvedor de Sistemas da Informação com foco em backend e experiência prática no ecossistema .NET desde 2022. Atuo principalmente com C#, ASP.NET Core e PostgreSQL no desenvolvimento de APIs para sistemas ERP e plataformas de fidelização (controle de pontos e cashback).
 
 Tenho domínio de C# e SQL, e conhecimento também com bancos como SQL Server e MySQL. Apesar de meu foco ser o backend, possuo conhecimentos em front-end com JavaScript, Vue.js e React, o que me permite compreender bem o ciclo completo das aplicações.
 
