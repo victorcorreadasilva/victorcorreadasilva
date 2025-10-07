@@ -1,8 +1,10 @@
-Olá! Trabalho há quatro anos com computação e informática, nos primeiros anos como professor de informática e robótica e suporte de sistemas computacionais. Faz dois anos que atuo diretamente com desenvolvimento de sistemas, sou responsável por implementar novas funções e realizar ajustes, correções e testes em um sistema ERP, feito no ambiente .net.
+Sou Desenvolvedor de Sistemas da Informação com foco em backend e experiência prática no ecossistema .NET desde 2022. Atuo principalmente com C#, ASP.NET Core e PostgreSQL no desenvolvimento de APIs para sistemas ERP e plataformas de fidelização (controle de pontos e cashback).
 
-Busco sempre aprender novas tecnologias e me manter atualizado no mundo da programação, alguns dos meus conhecimentos são: C#, AspNet, ApiRest, Javascript, HTML, CSS, Tailwind, SQL, PostgreSQL, SQL Server... 
+Tenho domínio de C# e SQL, e conhecimento também com bancos como SQL Server, MySQL e Oracle. Apesar de meu foco ser o backend, possuo conhecimentos em front-end com JavaScript, Vue.js e React, o que me permite compreender bem o ciclo completo das aplicações.
 
-Cursando Engenharia de Software.
+Antes de atuar como desenvolvedor, trabalhei mais de um ano com suporte a sistemas ERP e contabilidade, o que me deu uma visão aprofundada das necessidades dos usuários e dos processos de negócio. Também fui professor de informática, robótica, programação em C e redes de computadores — experiências que fortaleceram minha didática, comunicação e capacidade de resolver problemas de forma clara e estruturada.
+
+Sou entusiasta de boas práticas e estou sempre me aperfeiçoando. Já realizei diversos cursos sobre Clean Code, Docker, ASP.NET MVC, Entity Framework, APIs REST, LINQ, orientação a objetos em C# e Java, UML, MySQL, Razor Pages, Tailwind, TypeScript, entre outros. Busco constantemente evoluir como profissional e criar soluções robustas, eficientes e de fácil manutenção.
 
 Esse perfil no GitHub é destinado para salvar projetos que estou estudando e também serviços prestados como desenvolvedor.
 
