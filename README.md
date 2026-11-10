@@ -1,7 +1,7 @@
 
 # Victor Corrêa
 
-### Desenvolvedor .NET
+### Desenvolvedor .NET | Engenheiro de Software
 
 **C# · ASP.NET Core · PostgreSQL · APIs REST**
 
