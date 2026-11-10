@@ -1,16 +1,55 @@
-Sou engenheiro de software, desenvolvedor de Sistemas da Informação com foco em backend e experiência prática no ecossistema .NET desde 2022. Atuo principalmente com C#, ASP.NET Core e PostgreSQL no desenvolvimento de APIs para sistemas ERP e plataformas de fidelização (controle de pontos e cashback).
 
-Tenho domínio de C# e SQL, e conhecimento também com bancos como SQL Server e MySQL. Apesar de meu foco ser o backend, possuo conhecimentos em front-end com JavaScript, Vue.js e React, o que me permite compreender bem o ciclo completo das aplicações.
+# Victor Corrêa
 
-Antes de atuar como desenvolvedor, trabalhei mais de um ano com suporte a sistemas ERP e contabilidade, o que me deu uma visão aprofundada das necessidades dos usuários e dos processos de negócio. Também fui professor de informática, robótica, programação em C e redes de computadores — experiências que fortaleceram minha didática, comunicação e capacidade de resolver problemas de forma clara e estruturada.
+### Desenvolvedor .NET
 
-Sou entusiasta de boas práticas e estou sempre me aperfeiçoando. Já realizei diversos cursos sobre Clean Code, ASP.NET MVC, Entity Framework, APIs REST, LINQ, orientação a objetos em C# e Java, UML, MySQL, Razor Pages, Tailwind, TypeScript, entre outros. Busco constantemente evoluir como profissional e criar soluções robustas, eficientes e de fácil manutenção.
+**C# · ASP.NET Core · PostgreSQL · APIs REST**
 
-Este perfil no GitHub é destinado a armazenar projetos que estou estudando, certificações que conquistei e também serviços prestados como desenvolvedor
+Sou desenvolvedor com experiência profissional no ecossistema .NET desde 2022. Atuo no desenvolvimento e manutenção de sistemas corporativos, principalmente ERPs e plataformas de fidelização, incluindo soluções de pontos e cashback.
 
-Aqui você pode ver algumas certificações que conquistei: [Certificações](certificados).
+Tenho experiência na construção de APIs REST, integração entre sistemas, persistência de dados e resolução de problemas em produção. Procuro desenvolver soluções organizadas, eficientes e que sejam fáceis de entender e manter.
 
-<!---
-victorcorreadasilva/victorcorreadasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Experiência profissional
+
+Ao longo da minha atuação como desenvolvedor, tenho trabalhado com:
+
+- Desenvolvimento e manutenção de aplicações em C# e ASP.NET Core.
+- Construção e integração de APIs REST, incluindo autenticação JWT e documentação com Swagger/OpenAPI.
+- Modelagem, consultas e manipulação de dados em PostgreSQL, MySQL e SQL Server.
+- Persistência de dados com Entity Framework Core e Dapper.
+- Implementação de funcionalidades, análise de problemas e correção de falhas em produção.
+- Versionamento com Git, colaboração por pull requests, uso de Docker e implantação de aplicações.
+
+Também tenho experiência anterior com suporte a sistemas ERP e ensino de informática e programação, o que contribuiu para minha comunicação, análise de problemas e compreensão das necessidades dos usuários.
+
+## Tecnologias
+
+| Área | Tecnologias |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, LINQ |
+| Bancos de dados | PostgreSQL, MySQL, SQL Server |
+| Acesso a dados | Entity Framework Core, Dapper |
+| APIs e integrações | REST, JWT, Swagger/OpenAPI |
+| Desenvolvimento | Git, Pull Requests, Docker |
+| Organização de aplicações | MVC, Injeção de Dependência, Onion Architecture |
+
+**Conhecimentos complementares:** JavaScript, Vue.js e React, utilizados pontualmente no desenvolvimento de interfaces e integrações.
+
+## Formação e desenvolvimento
+
+Bacharelado em Engenharia de Software.
+
+Tenho interesse em boas práticas de desenvolvimento, orientação a objetos, Clean Code, SOLID, arquitetura de software e evolução contínua de aplicações .NET.
+
+## Projetos públicos
+
+### [Sistema de Empréstimo de Livros](https://github.com/victorcorreadasilva/EmprestimoLivros)
+
+Aplicação de estudos desenvolvida com ASP.NET Core MVC, Entity Framework Core e SQLite/SQL Server para gerenciar registros de empréstimos de livros.
+
+Neste GitHub, compartilho projetos pessoais e estudos relacionados ao desenvolvimento de software.
+
+## Contato
+
+**[LinkedIn](https://www.linkedin.com/in/victor-c-b0307b99/)**
+
