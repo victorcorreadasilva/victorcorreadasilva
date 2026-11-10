@@ -5,9 +5,7 @@
 
 **C# · ASP.NET Core · PostgreSQL · APIs REST**
 
-Sou desenvolvedor com experiência profissional no ecossistema .NET desde 2022. Atuo no desenvolvimento e manutenção de sistemas corporativos, principalmente ERPs e plataformas de fidelização, incluindo soluções de pontos e cashback.
-
-Tenho experiência na construção de APIs REST, integração entre sistemas, persistência de dados e resolução de problemas em produção. Procuro desenvolver soluções organizadas, eficientes e que sejam fáceis de entender e manter.
+Sou desenvolvedor de software, com experiência profissional desde 2022 e formação em Engenharia de Software em fase de conclusão. Atuo no desenvolvimento e manutenção de aplicações .NET e APIs REST para sistemas ERP, soluções empresariais e plataformas de fidelização.
 
 ## Experiência profissional
 
@@ -38,8 +36,6 @@ Também tenho experiência anterior com suporte a sistemas ERP e ensino de infor
 ## Formação e desenvolvimento
 
 Bacharelado em Engenharia de Software.
-
-Tenho interesse em boas práticas de desenvolvimento, orientação a objetos, Clean Code, SOLID, arquitetura de software e evolução contínua de aplicações .NET.
 
 ## Projetos públicos
 
